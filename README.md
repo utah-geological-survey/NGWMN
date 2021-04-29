@@ -11,9 +11,11 @@ Scripts and files used to help manage data for the National Groundwater Monitori
 
 ### State Lab Data
 * State Lab data is received as raw text files downloaded from the State Lab Keith Henderson (khenderson@utah.gov) at the State Lab.
+* Raw text files are kept in the directory `Projects\NGWMN\Chemistry_Results_Data\StateLab\`
 
 ### EPA Data
 * These data are sent as spreadsheets from the EPA lab in Denver
+* All bottles collected by the UGS and sent to the EPA are tracked using COCs, stored in the shared drive under `Projects\NGWMN\COCs_lab_forms` and sorted by year
 
 ## Data Archives
 * Data are stored in the UGS SDE, then submitted to the EPA WQX using the CDX portal
