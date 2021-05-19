@@ -46,3 +46,5 @@ Scripts and files used to help manage data for the [National Groundwater Monitor
   * ex. the sample has `activityid` 1505011-18, then the `activityid` of the field measurements with that sample would be 1505011-18-FM
   * This follows how the EPA treats its sample data
 * Activities are saved in the UGS SDE in the table `ugs_ngwmn_monitoring_phy_chem_activities`
+
+![Conceptual layout of UGS data flow](./Schema_diagram.png)
