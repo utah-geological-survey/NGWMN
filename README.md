@@ -1,6 +1,10 @@
-# NGWMN
+# UGS Chemistry Sample Data
 Scripts and files used to help manage data for the [National Groundwater Monitoring Network](https://cida.usgs.gov/ngwmn/)
 * If you can't find data or a station or see a bad site location, please submit a descriptive issue
+
+## Naming Stations
+* Station type abbreviation (2 letters) - Station Name (no special chars or spaces) - Date (YYMMDD)
+* Ex ST-STUCKI-230228
 
 ## Data Sources
 * The UGS NGWMN Project compiles data from three different data sources: field data, state lab data, and EPA data.
