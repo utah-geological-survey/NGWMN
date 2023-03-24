@@ -4,7 +4,7 @@ Scripts and files used to help manage data for the [National Groundwater Monitor
 
 ## Naming Stations
 * Station type abbreviation (2 letters) - Station Name (no special chars or spaces) - Date (YYMMDD)
-* Ex ST-STUCKI-230228
+* Ex `ST-STUCKI-230228`
 * Use the Trip ID field to designate the charge code for the sample
 
 ## Data Sources
